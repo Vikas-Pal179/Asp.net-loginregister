@@ -26,7 +26,7 @@ namespace ass_3_q1
             SqlConnection objConnection = new SqlConnection(connectionStr);
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = objConnection;
-            cmd.CommandText = "insert into register values('"+txtUserName+"','"+txtEmail+"','"+txtPass+"')";
+            cmd.CommandText = "insert into tblRegister values('"+txtUserName+"','"+txtEmail+"','"+txtPass+"',null)";
             
             objConnection.Open();   
             int res = cmd.ExecuteNonQuery();

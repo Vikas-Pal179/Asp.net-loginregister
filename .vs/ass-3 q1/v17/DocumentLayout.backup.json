@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "D:\\vikas\\Asp\\ass-3 q1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|d:\\vikas\\asp\\ass-3 q1\\ass-3 q1\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|d:\\vikas\\asp\\ass-3 q1\\ass-3 q1\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|d:\\vikas\\asp\\ass-3 q1\\ass-3 q1\\changepassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\changepassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|d:\\vikas\\asp\\ass-3 q1\\ass-3 q1\\changepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\changepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|d:\\vikas\\asp\\ass-3 q1\\ass-3 q1\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\changepassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\changepassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\changepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\changepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\viewprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\viewprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|d:\\vikas\\asp\\ass-3 q1\\ass-3 q1\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|d:\\vikas\\asp\\ass-3 q1\\ass-3 q1\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80149672-26DA-4092-ACF0-6931E084948F}|ass-3 q1\\ass-3 q1.csproj|solutionrelative:ass-3 q1\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +50,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewProfile.aspx",
+              "DocumentMoniker": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\ViewProfile.aspx",
+              "RelativeDocumentMoniker": "ass-3 q1\\ViewProfile.aspx",
+              "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\ViewProfile.aspx",
+              "RelativeToolTip": "ass-3 q1\\ViewProfile.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-28T18:16:49.271Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -56,23 +72,21 @@
               "RelativeDocumentMoniker": "ass-3 q1\\ChangePassword.aspx.cs",
               "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\ChangePassword.aspx.cs",
               "RelativeToolTip": "ass-3 q1\\ChangePassword.aspx.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T19:18:41.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T19:18:41.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ChangePassword.aspx",
               "DocumentMoniker": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\ChangePassword.aspx",
               "RelativeDocumentMoniker": "ass-3 q1\\ChangePassword.aspx",
               "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\ChangePassword.aspx",
               "RelativeToolTip": "ass-3 q1\\ChangePassword.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T19:14:32.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T19:14:32.627Z"
             },
             {
               "$type": "Document",
@@ -82,79 +96,75 @@
               "RelativeDocumentMoniker": "ass-3 q1\\HomePage.aspx.cs",
               "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\HomePage.aspx.cs",
               "RelativeToolTip": "ass-3 q1\\HomePage.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAB+AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAA0wCgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T19:13:37.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "HomePage.aspx",
               "DocumentMoniker": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\HomePage.aspx",
               "RelativeDocumentMoniker": "ass-3 q1\\HomePage.aspx",
-              "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\HomePage.aspx*",
-              "RelativeToolTip": "ass-3 q1\\HomePage.aspx*",
+              "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\HomePage.aspx",
+              "RelativeToolTip": "ass-3 q1\\HomePage.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T18:28:59.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T18:28:59.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "LoginPage.aspx.designer.cs",
               "DocumentMoniker": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\LoginPage.aspx.designer.cs",
               "RelativeDocumentMoniker": "ass-3 q1\\LoginPage.aspx.designer.cs",
               "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\LoginPage.aspx.designer.cs",
               "RelativeToolTip": "ass-3 q1\\LoginPage.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:18:04.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T18:18:04.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "RegisterPage.aspx.cs",
               "DocumentMoniker": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\RegisterPage.aspx.cs",
               "RelativeDocumentMoniker": "ass-3 q1\\RegisterPage.aspx.cs",
               "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\RegisterPage.aspx.cs",
               "RelativeToolTip": "ass-3 q1\\RegisterPage.aspx.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T19:08:33.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T19:08:33.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LoginPage.aspx.cs",
               "DocumentMoniker": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\LoginPage.aspx.cs",
               "RelativeDocumentMoniker": "ass-3 q1\\LoginPage.aspx.cs",
               "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\LoginPage.aspx.cs",
               "RelativeToolTip": "ass-3 q1\\LoginPage.aspx.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwDAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T19:04:23.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RegisterPage.aspx",
               "DocumentMoniker": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\RegisterPage.aspx",
               "RelativeDocumentMoniker": "ass-3 q1\\RegisterPage.aspx",
               "ToolTip": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\RegisterPage.aspx",
               "RelativeToolTip": "ass-3 q1\\RegisterPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-26T19:04:14.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T19:04:14.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "LoginPage.aspx",
               "DocumentMoniker": "D:\\vikas\\Asp\\ass-3 q1\\ass-3 q1\\LoginPage.aspx",
               "RelativeDocumentMoniker": "ass-3 q1\\LoginPage.aspx",
@@ -162,8 +172,7 @@
               "RelativeToolTip": "ass-3 q1\\LoginPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-26T18:58:02.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T18:58:02.227Z"
             }
           ]
         }

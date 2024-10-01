@@ -24,7 +24,7 @@ namespace ass_3_q1
             SqlConnection objConnection = new SqlConnection(connectionStr);
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = objConnection;
-            cmd.CommandText = "update register set password = '"+txtNewPass+"' where password = '"+txtOldPass+"' and userName = '"+ txtUserName + "';";
+            cmd.CommandText = "update tblRegister set password = '" + txtNewPass+"' where password = '"+txtOldPass+"' and userName = '"+ txtUserName + "';";
 
             objConnection.Open();
             int res = cmd.ExecuteNonQuery();

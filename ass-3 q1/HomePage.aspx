@@ -24,6 +24,7 @@
             <asp:Button ID="viewProfile" runat="server" OnClick="viewProfile_Click" Text="View Profile" />
         </div>
         <p>
+            <asp:FileUpload ID="FileUpload1" runat="server" style="height: 25px" />
             <br />
             <asp:Button ID="uploadProfilePhoto" runat="server" OnClick="uploadProfilePhoto_Click" Text="Upload Profile Photo" />
         </p>

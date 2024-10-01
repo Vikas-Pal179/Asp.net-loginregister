@@ -6,6 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
+using Newtonsoft.Json;
 
 namespace ass_3_q1
 {
@@ -30,17 +31,23 @@ namespace ass_3_q1
             SqlConnection objConnection = new SqlConnection(connectionStr);
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = objConnection;
-            cmd.CommandText = "select * from register where userName='" + txtUserName+"' and password= '"+txtPassword+"'";
+            cmd.CommandText = "select * from tblRegister where userName='" + txtUserName+"' and password= '"+txtPassword+"'";
 
             objConnection.Open();
             try
             {
-            int res = (int)cmd.ExecuteScalar();
-            if (res > 0)
+                int res = (int)cmd.ExecuteScalar();
+                //SqlDataReader reader = cmd.ExecuteReader();
+            if (res>0)
                 {
-
+                    var data = new {
+                        username = txtUserName,
+                        password = txtPassword
+                    };
+                    string jsonData = JsonConvert.SerializeObject(data);
+                    Response.Write("<script>localStorage.setItem('userObj', '"+ jsonData + "');</script>");
+                    HttpContext.Current.Session["userObjs"] = data;
                     Response.Write("<script>localStorage.setItem('isLoggedIn', 'true'); window.location.href = 'HomePage.aspx';</script>");
-
                 }
             }
             catch (Exception ex) { 
